@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (1504261 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="238102" visible="true" version="11" changeset="78342936" timestamp="2019-12-13T01:48:39Z" user="Howpper" uid="1240864">
+  <member type="way" ref="452640676" role="outer"/>
+  <member type="way" ref="40496636" role="outer"/>
+  <member type="way" ref="452640677" role="outer"/>
+  <member type="way" ref="40496631" role="outer"/>
+  <member type="way" ref="40496394" role="outer"/>
+  <member type="way" ref="40496418" role="outer"/>
+  <member type="way" ref="40496420" role="outer"/>
+  <member type="way" ref="40496422" role="outer"/>
+  <member type="way" ref="250212228" role="outer"/>
+  <member type="way" ref="40496423" role="outer"/>
+  <member type="way" ref="316399582" role="outer"/>
+  <member type="way" ref="316399596" role="outer"/>
+  <member type="way" ref="40496564" role="outer"/>
+  <member type="way" ref="40496561" role="outer"/>
+  <member type="way" ref="452640674" role="outer"/>
+  <member type="way" ref="40496559" role="outer"/>
+  <member type="way" ref="316169248" role="inner"/>
+  <member type="way" ref="40519383" role="outer"/>
+  <member type="way" ref="40519311" role="inner"/>
+  <member type="way" ref="40519312" role="inner"/>
+  <member type="way" ref="40519313" role="inner"/>
+  <member type="way" ref="40519315" role="inner"/>
+  <member type="way" ref="40519378" role="inner"/>
+  <member type="way" ref="40496563" role="outer"/>
+  <member type="node" ref="7053411921" role="label"/>
+  <tag k="admin_level" v="8"/>
+  <tag k="border_type" v="city"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="is_in" v="USA, Washington"/>
+  <tag k="is_in:country" v="USA"/>
+  <tag k="is_in:country_code" v="US"/>
+  <tag k="is_in:iso_3166_2" v="US:WA"/>
+  <tag k="is_in:state" v="Washington"/>
+  <tag k="is_in:state_code" v="WA"/>
+  <tag k="name" v="Walla Walla"/>
+  <tag k="place" v="city"/>
+  <tag k="source" v="TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)"/>
+  <tag k="tiger:CLASSFP" v="C1"/>
+  <tag k="tiger:CPI" v="Y"/>
+  <tag k="tiger:FUNCSTAT" v="A"/>
+  <tag k="tiger:LSAD" v="25"/>
+  <tag k="tiger:MTFCC" v="G4110"/>
+  <tag k="tiger:NAME" v="Walla Walla"/>
+  <tag k="tiger:NAMELSAD" v="Walla Walla city"/>
+  <tag k="tiger:PCICBSA" v="Y"/>
+  <tag k="tiger:PCINECTA" v="N"/>
+  <tag k="tiger:PLACEFP" v="75775"/>
+  <tag k="tiger:PLACENS" v="02412168"/>
+  <tag k="tiger:PLCIDFP" v="5375775"/>
+  <tag k="tiger:STATEFP" v="53"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q222338"/>
+  <tag k="wikipedia" v="en:Walla Walla, Washington"/>
+ </relation>
+</osm>
